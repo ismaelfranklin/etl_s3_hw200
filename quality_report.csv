@@ -1,0 +1,5 @@
+file,mean_height,min_height,max_height,missing_values,outliers
+hw200_with_cm.csv,67.9498,63.43,73.9,0,0
+hw_200.csv,67.9498,63.43,73.9,0,0
+processed_hw_200.csv,67.9498,63.43,73.9,0,0
+quality_report.csv,ERROR,ERROR,ERROR,ERROR,ERROR
