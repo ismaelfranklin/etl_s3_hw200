@@ -19,12 +19,19 @@ This project demonstrates a basic data engineering workflow:
 ## 📂 Project Structure
 
 etl_s3_hw200/
+
 ├── batch_data_cleaning.py # Batch data quality checks for all CSVs
+
 ├── data_cleaning.py # Data cleaning and basic analysis
+
 ├── hw200_with_cm.csv # Sample output CSV (with new columns)
+
 ├── main.py # Example: load data from S3
+
 ├── quality_report.csv # Data quality report (auto-generated)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md #
 
 
